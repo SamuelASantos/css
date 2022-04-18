@@ -5,3 +5,4 @@ Estudo relacionado ao CSS baseado no conteúdo da plataforma [DIO](https://web.d
 2. [Box-Model](box-model.md)
 3. [Estilizando elementos](styling-elements.md)
 4. [Estilizando textos](styling-texts.md)
+5. [Dimensão e alinhamento](dimension-alignment.md)
